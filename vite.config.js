@@ -10,6 +10,6 @@ export default defineConfig({
   preview: {
     host: true,
     port: process.env.PORT || 4173,
-    allowedHosts: ['weather-app-akashbhunia.onrender.com']
+    allowedHosts: ['weather-app-akash.onrender.com']
   }
 });
